@@ -1,0 +1,4 @@
+*.xapk
+*.apk
+.env*
+node_modules
